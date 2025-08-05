@@ -6,6 +6,8 @@
 > 
 > 🌟![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/429f9b4d85284ef39b31d818da6e39b1.png#pic_center)
 
+<img width="1860" height="924" alt="image" src="https://github.com/user-attachments/assets/c7e7baec-3186-4192-898b-ef26e260390e" />
+
 
 ## 联系我们
 ![在这里插入图片描述](https://github.com/user-attachments/assets/8f1ce2ba-72f1-441f-8d65-395ddab4650d)
@@ -17,4 +19,4 @@
 
 
 
-<!-- 截图将放在此处 -->
+
